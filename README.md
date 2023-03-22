@@ -10,8 +10,8 @@ You Are Free To Use This Code In Any Of Your Projects, But You Must Include The 
 
 ```
 ## Developer
-- [AutoApprove Bot by Mo Tech](https://github.com/PR0FESS0R-99/Auto-Approved-Bot)
-```
+- [AutoApprove Bot by PTV BOTS](https://github.com/PTVcartoonStelugu/AUTO-APPROVE-BOT)
+
 
 <p align="center">
 ℹ️ 𝗨𝘀𝗲𝗴𝗲 ℹ️
